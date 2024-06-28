@@ -1,0 +1,19 @@
+div.miFondo{
+    background-color: #e9d8be;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    
+}
+
+p{
+    /*padding-left:;
+    padding-right: ;*/
+    text-align: justify;
+    padding: 5px 20px;
+}
+
+.fondo2{
+    background-color: darksalmon;
+    border-radius: 15px 0px 15px 0px;
+    border: solid;
+}
